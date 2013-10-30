@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/query_group">
+        <item android:id="@+id/query_01" android:title="@string/query_menu_item_01"></item>
+        <item android:id="@+id/query_02" android:title="@string/query_menu_item_02"></item>
+        <item android:id="@+id/query_03" android:title="@string/query_menu_item_03"></item>
+        <item android:id="@+id/query_04" android:title="@string/query_menu_item_04"></item>
+        <item android:id="@+id/query_05" android:title="@string/query_menu_item_05"></item>
+        <item android:id="@+id/query_06" android:title="@string/query_menu_item_06"></item>
+        <item android:id="@+id/query_07" android:title="@string/query_menu_item_07"></item>
+    </group>
+    
+
+</menu>
